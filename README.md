@@ -6,12 +6,13 @@ Currently a 3rd semester student majoring in Informatics at Ciputra University M
 ## Skills 🍳
 
 ### Programming Languages and Technologies 💻
-- **Python** ![Python](https://img.shields.io/badge/-80%25-blue)
-- **Java** ![Java](https://img.shields.io/badge/-60%25-green)
-- **HTML** ![HTML](https://img.shields.io/badge/-80%25-orange)
-- **CSS** ![CSS](https://img.shields.io/badge/-65%25-purple)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-55%25-yellow)
-- **MySQL** ![MySQL](https://img.shields.io/badge/-85%25-red)
+- ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![80%](https://progress-bar.dev/80)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![60%](https://progress-bar.dev/60)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![80%](https://progress-bar.dev/80)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![65%](https://progress-bar.dev/65)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![55%](https://progress-bar.dev/55)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![85%](https://progress-bar.dev/85)
+
 
 ## Experience 🔬
 - **UC-Hub (Semester 1 Project)**: Developed a backend application for UC-Hub, a terminal-based project.
