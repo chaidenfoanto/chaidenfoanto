@@ -15,12 +15,12 @@ Currently a 3rd semester student majoring in Informatics at Ciputra University M
 
 
 ## Experience 🔬
-- **UC-Hub (Semester 1 Project)**: Developed a backend application for UC-Hub, a terminal-based project.
-- **NPLC Website (Semester 2 Project)**: Created and hosted a website for NPLC.
+- **UC-Hub (Semester 1 Project)**: Developed a backend application named UC-Hub during my first semester. Although it was a terminal-based project, it laid a solid foundation for my understanding of backend development.
+- **NPLC Website (Semester 2 Project)**: In my second semester, I worked on a website project for NPLC, which was successfully hosted and deployed. This project honed my skills in web development and gave me practical experience in deploying live websites.
 
 ## Education 📚
-- **Coding Bee Academy**: Completed a Python course and received a certification.
-- **Ciputra University Makassar**: Pursuing a degree in Informatics with a specialization in Artificial Intelligence.
+- **Coding Bee Academy**: I completed a comprehensive course in Python at Coding Bee Academy and earned a certification that recognizes my proficiency in Python programming.
+- **Ciputra University Makassar**: Currently, I am pursuing a degree in Informatics with a specialization in Artificial Intelligence. This educational path is providing me with the theoretical knowledge and practical skills needed to excel in the tech industry.
 
 ## Contact 🙋🏻‍♂️
 - **Email**: [chaiden.foanto@gmail.com](mailto:chaiden.foanto@gmail.com)
@@ -30,9 +30,15 @@ Currently a 3rd semester student majoring in Informatics at Ciputra University M
 - **Instagram**: [@chaidenfoanto](https://instagram.com/chaidenfoanto)
 
 ## Goals and Vision 👀
-I am deeply interested in creating innovations within the realm of artificial intelligence. I aspire to learn and contribute to the future of technology, especially with the rising trend of Web3. My goal is to be at the forefront of technological advancements and drive significant changes in the future.
+My primary interest lies in the field of artificial intelligence, where I aim to drive innovation and create impactful solutions. I am particularly excited about the future of technology and its potential to revolutionize various industries. One of my long-term goals is to be a part of groundbreaking projects in AI and contribute to advancements in this domain.
+
+As we move towards a more technologically advanced world, concepts like Web3 are becoming increasingly important. I am keen on exploring these emerging technologies and understanding their implications. By staying at the forefront of these developments, I hope to play a significant role in shaping the future of technology.
 
 ## Hobbies 🏃🏻‍➡️
-Outside of programming, I enjoy running, swimming, playing futsal, and reading books.
+Beyond my academic and professional interests, I am an avid runner and swimmer. I enjoy playing futsal and find great joy in reading books. These activities not only help me stay physically active but also provide a well-rounded approach to personal growth and relaxation.
 
-Thank you for visiting my profile! Feel free to connect with me for collaborations or just to chat about tech and innovations.
+Thank you for visiting my profile! I am always open to new opportunities, collaborations, and conversations about technology. Feel free to reach out to me if you are interested in working together or if you just want to discuss the latest trends in tech.
+
+---
+
+By continually expanding my knowledge and working on diverse projects, I am committed to becoming a proficient and innovative professional in the tech industry. Let's connect and explore the exciting world of technology together!
