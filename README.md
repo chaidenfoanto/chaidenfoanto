@@ -1,7 +1,7 @@
 # Hi, I'm Chaiden Richardo Foanto 👋🏻🧑🏻‍💻
 
 ## About Me 📝
-Currently a 3rd semester student majoring in Informatics at Ciputra University Makassar. I have a strong passion for programming and a great ambition to innovate in the field. I enjoy learning new things and often work with languages such as Python, Java, HTML, CSS, JS, and MySQL.
+Currently a student at Ciputra University Makassar majoring in Informatics. I have a strong passion for programming and a great ambition to innovate in the field. I enjoy learning new things and often work with languages such as Python, Java, HTML, CSS, JS, and MySQL.
 
 ## Skills 🍳
 
