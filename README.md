@@ -1,17 +1,20 @@
 # Hi, I'm Chaiden Richardo Foanto 👋🏻🧑🏻‍💻
 
 ## About Me 📝
-Currently a student at Ciputra University Makassar majoring in Informatics. I have a strong passion for programming and a great ambition to innovate in the field. I enjoy learning new things and often work with languages such as Python, Java, HTML, CSS, JS, and MySQL.
+Currently a student at Ciputra University Makassar majoring in Informatics. I have a strong passion for programming and a great ambition to innovate in the field. I enjoy learning new things and often work with languages such as Python, Java, HTML, CSS, JS, MySQL, PHP, and Dart/Flutter.
 
 ## Skills 🍳
 
 ### Programming Languages and Technologies 💻
-- ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![80%](https://progress-bar.dev/80)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![60%](https://progress-bar.dev/60)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![80%](https://progress-bar.dev/80)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![65%](https://progress-bar.dev/65)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![55%](https://progress-bar.dev/55)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![85%](https://progress-bar.dev/85)
+- ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 
 ## Experience 🔬
@@ -28,6 +31,7 @@ Currently a student at Ciputra University Makassar majoring in Informatics. I ha
 
 ## Social Media 📱
 - **Instagram**: [@chaidenfoanto](https://instagram.com/chaidenfoanto)
+- **LinkedIn**: [Chaiden Richardo Foanto](https://www.linkedin.com/in/chaiden-richardo-foanto-b1267729a/)
 
 ## Goals and Vision 👀
 My primary interest lies in the field of artificial intelligence, where I aim to drive innovation and create impactful solutions. I am particularly excited about the future of technology and its potential to revolutionize various industries. One of my long-term goals is to be a part of groundbreaking projects in AI and contribute to advancements in this domain.
