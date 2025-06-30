@@ -10,16 +10,49 @@ Currently a student at Ciputra University Makassar majoring in Informatics. I ha
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 - ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 
-## Experience 🔬
-- **UC-Hub (Semester 1 Project)**: Developed a backend application named UC-Hub during my first semester. Although it was a terminal-based project, it laid a solid foundation for my understanding of backend development.
-- **NPLC Website (Semester 2 Project)**: In my second semester, I worked on a website project for NPLC, which was successfully hosted and deployed. This project honed my skills in web development and gave me practical experience in deploying live websites.
+## Projects 🔬
+Here's a summary of my key projects, showcasing my journey through software development from foundational concepts to leading full-stack application development.
+
+- **UC-Hub (Semester 1 Project)**
+  
+  My first dive into backend development. Developed a terminal-based application that laid a solid foundation for my understanding of functional programming and application logic.
+  
+  *Key Technologies: Python, Functional Programming*
+
+  [➡️ View Repository](https://github.com/Gibekkk/UC-Hub)
+
+- **NPLC Website (Semester 2 Project)**
+  
+  Developed and successfully deployed a full-stack website for the National Programming and Logic Competition (NPLC). This project was my introduction to the MVC architecture and building RESTful APIs with an industry-standard framework.
+  
+  *Key Technologies: Java, SpringBoot, RESTful APIs, MySQL*
+  
+  [➡️ View Repository](https://github.com/chaidenfoanto/Group-3---Project-NPLC)
+
+- **Bantu.in (Semester 3 Project)**
+  
+  Led a team of three to build a full-stack mobile marketplace app from the ground up. This was my first experience in a **team leadership** role, guiding the project through a Design Sprint and developing with a modern mobile stack.
+  
+  *Key Technologies: Flutter, Dart, Laravel, PHP, RDBMS*
+  
+  [➡️ View Frontend Repo](https://github.com/chaidenfoanto/Group-3_Bantu.in_FRONTEND) | [➡️ View Backend Repo](https://github.com/chaidenfoanto/Group-3_Bantu.in_BACKEND)
+
+- **Jobaile (Semester 4 Project)**
+  
+  A user-centric mobile app developed following a rigorous engineering process. We conducted extensive **UX Research** (surveys & interviews) and, most importantly, implemented **Architecture Decision Records (ADR)** to maintain code quality and architectural consistency.
+  
+  *Key Technologies: Flutter, Laravel, UX Research, Technical Documentation (ADR)*
+  
+  [➡️ View Frontend Repo](https://github.com/chaidenfoanto/Jobaile_FRONTEND_Recruiter) | [➡️ View Backend Repo](https://github.com/chaidenfoanto/Jobaile_BACKEND)
 
 ## Education 📚
 - **Coding Bee Academy**: I completed a comprehensive course in Python at Coding Bee Academy and earned a certification that recognizes my proficiency in Python programming.
