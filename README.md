@@ -1,5 +1,7 @@
 # Hi, I'm Chaiden Richardo Foanto 👋🏻🧑🏻‍💻
 
+![My Profile Banner](https://raw.githubusercontent.com/chaidenfoanto/chaidenfoanto/main/images/banner.jpg)
+
 ## About Me 📝
 Currently a student at Ciputra University Makassar majoring in Informatics. I have a strong passion for programming and a great ambition to innovate in the field. I enjoy learning new things and often work with languages such as Python, Java, HTML, CSS, JS, MySQL, PHP, and Dart/Flutter.
 
