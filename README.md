@@ -5,7 +5,6 @@
 ## About Me 
 Informatics student at Ciputra University Makassar, specializing in Artificial Intelligence.
 I build mobile apps, train machine learning models, and explore data science on the side.
-Currently looking for an internship in Data Analytics, Data Science, or AI — July to December 2026.
 
 ---
 
