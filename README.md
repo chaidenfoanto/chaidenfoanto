@@ -43,9 +43,11 @@ const chaiden = {
     }
 };
 ```
+```
+"I will either find a way, or make one."
 
-*"I will either find a way, or make one."*
-<sub>— Hannibal Barca</sub>
+                                    — Hannibal Barca
+```
 
 </td>
 <td valign="middle" width="50%">
@@ -72,7 +74,7 @@ const chaiden = {
 
 **AI & Data**
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,pandas,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,anaconda" />
 </p>
 
 **Tools**
@@ -86,7 +88,7 @@ const chaiden = {
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chaidenfoanto&theme=tokyonight&hide_border=true)
+![Streak Stats]([https://github-readme-streak-stats.herokuapp.com/?user=chaidenfoanto&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=chaidenfoanto&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -98,30 +100,35 @@ const chaiden = {
 Imperfect produce marketplace connecting local farmers with culinary SMEs.
 AI-based product matching, real-time order tracking, in-app chat, push notifications via Firebase FCM.
 `Laravel 13` `MySQL` `Redis` `Firebase FCM`
+
 [🔗 Repository](https://github.com/bigbosspramana/Pilahpilih)
 
 **Tomato Leaf Disease Detection** | *2025*
 CNN-based classification model for 9 tomato leaf conditions using OpenCV.
 Achieved ~90% accuracy. Published in INTRO: Journal Informatika dan Teknik Elektro, Vol. 4 No. 2.
 `Python` `TensorFlow` `Keras` `OpenCV`
+
 [🔗 Repository](https://github.com/chaidenfoanto/Tomato_Leaf_Detection)
 
 **Bantu.in** | *2025*
 On-demand technician booking app. Led a team of three through Design Sprint.
 Integrated OpenStreetMap for real-time location and contributed ~70% of frontend code.
 `Flutter` `Laravel 11` `MySQL` `OpenStreetMap`
+
 [🔗 Frontend](https://github.com/chaidenfoanto/Group-3_Bantu.In_FRONTEND) | [🔗 Backend](https://github.com/chaidenfoanto/Group-3_Bantu.In_BACKEND)
 
 **Jobaile** | *2025*
 Two-sided platform connecting housemaids with employers via swipe-based matching.
 Conducted UX research and implemented Architecture Decision Records to maintain code consistency.
 `Flutter` `Laravel 11` `MySQL` `REST API`
+
 [🔗 Frontend](https://github.com/chaidenfoanto/Jobaile_FRONTEND_Recruiter) | [🔗 Backend](https://github.com/chaidenfoanto/Jobaile_BACKEND)
 
 **NPLC Website** | *2024*
 Full-stack web platform for a national programming competition across two cities.
 Digitized booth tracking, card gacha system, and data input flow.
 `Java` `Spring Boot` `MySQL` `REST API`
+
 [🔗 Repository](https://github.com/chaidenfoanto/Group-3---Project-NPLC)
 
 ---
