@@ -12,7 +12,7 @@
 
 <table border="0">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ```js
 const chaiden = {
@@ -48,7 +48,7 @@ const chaiden = {
 <sub>— Hannibal Barca</sub>
 
 </td>
-<td valign="middle" width="45%">
+<td valign="middle" width="50%">
 
 <img src="https://raw.githubusercontent.com/chaidenfoanto/chaidenfoanto/main/images/side-gif.gif" width="100%" />
 
