@@ -53,7 +53,7 @@ const chaiden = {
 
 </td>
 <td width="40%" valign="middle" align="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/chaidenfoanto/chaidenfoanto/main/images/side-gif.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/chaidenfoanto/chaidenfoanto/main/images/side-gif.gif" width="340" style="max-width: 100%; height: auto;" />
 </td>
 </tr>
 </table>
@@ -112,7 +112,7 @@ const chaiden = {
 
 **PilahPilih** | *2026*
 Imperfect produce marketplace connecting local farmers with culinary SMEs.
-AI-based product matching, real-time order tracking, in-app chat, push notifications via Firebase FCM.
+AI-based product matching, real-time order tracking, in-app chat, push notifications via Firebase FCM.  
 `Laravel 13` `MySQL` `Redis` `Firebase FCM`  
 [🔗 Repository](https://github.com/bigbosspramana/Pilahpilih)
 
