@@ -53,7 +53,7 @@ const chaiden = {
 
 </td>
 <td width="40%" valign="middle" align="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/chaidenfoanto/chaidenfoanto/main/images/side-gif.gif" width="340" style="max-width: 100%; height: auto;" />
+<img src="https://raw.githubusercontent.com/chaidenfoanto/chaidenfoanto/main/images/side-gif.gif" style="height: 100%; max-height: 320px; width: auto; max-width: 100%; object-fit: contain;" />
 </td>
 </tr>
 </table>
