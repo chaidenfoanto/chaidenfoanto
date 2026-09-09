@@ -118,25 +118,25 @@ AI-based product matching, real-time order tracking, in-app chat, push notificat
 
 **Tomato Leaf Disease Detection** | *2025*
 CNN-based classification model for 9 tomato leaf conditions using OpenCV.
-Achieved ~90% accuracy. Published in INTRO: Journal Informatika dan Teknik Elektro, Vol. 4 No. 2.
+Achieved ~90% accuracy. Published in INTRO: Journal Informatika dan Teknik Elektro, Vol. 4 No. 2.  
 `Python` `TensorFlow` `Keras` `OpenCV`  
 [🔗 Repository](https://github.com/chaidenfoanto/Tomato_Leaf_Detection)
 
 **Bantu.in** | *2025*
 On-demand technician booking app. Led a team of three through Design Sprint.
-Integrated OpenStreetMap for real-time location and contributed ~70% of frontend code.
+Integrated OpenStreetMap for real-time location and contributed ~70% of frontend code.  
 `Flutter` `Laravel 11` `MySQL` `OpenStreetMap`  
 [🔗 Frontend](https://github.com/chaidenfoanto/Group-3_Bantu.In_FRONTEND) | [🔗 Backend](https://github.com/chaidenfoanto/Group-3_Bantu.In_BACKEND)
 
 **Jobaile** | *2025*
 Two-sided platform connecting housemaids with employers via swipe-based matching.
-Conducted UX research and implemented Architecture Decision Records to maintain code consistency.
+Conducted UX research and implemented Architecture Decision Records to maintain code consistency.  
 `Flutter` `Laravel 11` `MySQL` `REST API`  
 [🔗 Frontend](https://github.com/chaidenfoanto/Jobaile_FRONTEND_Recruiter) | [🔗 Backend](https://github.com/chaidenfoanto/Jobaile_BACKEND)
 
 **NPLC Website** | *2024*
 Full-stack web platform for a national programming competition across two cities.
-Digitized booth tracking, card gacha system, and data input flow.
+Digitized booth tracking, card gacha system, and data input flow.  
 `Java` `Spring Boot` `MySQL` `REST API`  
 [🔗 Repository](https://github.com/chaidenfoanto/Group-3---Project-NPLC)
 
@@ -155,7 +155,7 @@ INTRO: Journal Informatika dan Teknik Elektro, Vol. 4 No. 2, pp. 112–118 | Dec
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-chaiden.foanto@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chaiden.foanto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-chaidenfoanto-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaidenfoanto)
+[![LinkedIn](https://img.shields.io/badge/chaidenfoanto-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaidenfoanto)
 [![Instagram](https://img.shields.io/badge/-@chaidenfoanto-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/chaidenfoanto)
 
 </div>
