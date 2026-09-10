@@ -20,7 +20,7 @@ const chaiden = {
     role: "Informatics Student | AI Specialization",
     location: "Makassar, Indonesia 🇮🇩",
     university: "Ciputra University",
-    portfolio: "https://chaidenfoanto.github.io/portfolio-website/",
+    portfolio: "chaidenfoanto.github.io/portfolio-website/",
 
     building: [
         "Mobile Applications",
@@ -35,20 +35,18 @@ const chaiden = {
     ],
 
     tech: {
-        mobile:   ["Flutter", "Dart", "Swift"],
-        frontend: ["HTML", "CSS", "JavaScript", "Svelte"],
-        backend:  ["Laravel", "Spring Boot", "NestJS", "REST API"],
-        ai:       ["TensorFlow", "Keras", "OpenCV", "Scikit-learn"],
+        mobile:   ["Flutter", "Swift"],
+        frontend: ["JavaScript", "Svelte"],
+        backend:  ["Laravel", "Spring Boot"],
+        ai:       ["TensorFlow", "OpenCV"],
         database: ["MySQL"],
-        tools:    ["Git", "Postman", "Docker", "Anaconda"]
+        tools:    ["Docker"]
     }
 };
 ```
 
 ```
-"I will either find a way, or make one."
-
-                                    — Hannibal Barca
+"I will either find a way, or make one."  — Hannibal Barca
 ```
 
 </td>
