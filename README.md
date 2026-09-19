@@ -22,16 +22,16 @@ const chaiden = {
     university: "Ciputra University",
     portfolio: "chaidenfoanto.github.io/portfolio-website/",
 
-    building: [
-        "Mobile Applications",
-        "Machine Learning Models",
-        "Data Science Projects"
+    focus: [
+        "Web & Mobile Development",
+        "Machine Learning",
+        "Data Analytics"
     ],
 
     currentlyExploring: [
         "Computer Vision",
-        "Advanced Flutter",
-        "Swift"
+        "Data Science",
+        "iOS Development with Swift"
     ],
 
     tech: {
@@ -100,7 +100,7 @@ const chaiden = {
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=chaidenfoanto&theme=dark&date_format=j%20M%5B%20Y%5D)
+![Streak Stats](https://streak-stats.demolab.com/?user=chaidenfoanto&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
